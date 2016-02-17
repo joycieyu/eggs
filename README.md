@@ -1,6 +1,3 @@
-# eggs
-
-something about candy
 
 breakfast foods: 
 toast
