@@ -1,7 +1,2 @@
+hey I am George!
 
-breakfast foods: 
-toast
-poptarts
-cheez-its
-coffee
-tea
